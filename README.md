@@ -1,6 +1,6 @@
 # _Ping-Pong_
 
-#### _This Web-Page-App lets you input any number, it will return a list from 1 - to your inputted number and numbers divisible by 3 will show up as "ping", numbers divisible by 5 will show up as "pong" and numbers divisible by both 3 and 5 will show up as "ping-pong", October 28th 2016_
+#### _This Web-Page-App lets you input any number, it will return a list from 1 - to your inputted number and numbers divisible by 3 will show up as "ping", numbers divisible by 5 will show up as "pong" and numbers divisible by both 3 and 5 will show up as "ping-pong". Developed on October 28th 2016._
 
 #### By _**Stephan Khoury**_
 
