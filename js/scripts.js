@@ -1,7 +1,7 @@
 $(document).ready(function(){
   $("form").submit(function(event){
     var x = $('#input-number').val()
-
+    
     for (var i = 1; i <= x; i++) {
       if (i % 15 === 0) {
         $('#list').append('<li>'+"Ping-Pong"+'</li>');}
@@ -15,7 +15,7 @@ $(document).ready(function(){
     };
 
   event.preventDefault();
-  console.log(num);
+  console.log(x);
 
   });
 });
