@@ -44,3 +44,17 @@ p {
   margin-left: 10px;
   font-size: 12px;
 }
+
+.form-group {
+  float: none;
+  width: 500px;
+  padding-right: 300px;
+}
+
+.input-number {
+  float: left;
+}
+.btn {
+  float: none;
+  color: red;
+}
